@@ -21,11 +21,11 @@ Sou desenvolvedor Java com foco em Spring Boot. Apaixonado por criar soluções 
 ### Contatos
 
 <p>
-  <a href="https://github.com/gabrielpaje12" target="_blank" rel="noopener noreferrer" style="margin-right: 20px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="30" height="30" style="vertical-align: middle;" /> GitHub
+  <a href="https://github.com/gabrielpaje12" target="_blank" rel="noopener noreferrer" style="margin-right: 20px; text-decoration: none; color: white;">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="30" height="30" style="vertical-align: middle; margin-right: 8px;" /> GitHub
   </a>
-  <a href="https://www.linkedin.com/in/gabriel-oliveira-833a58373?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" style="vertical-align: middle;" /> LinkedIn
+  <a href="https://www.linkedin.com/in/gabriel-oliveira-833a58373?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: white;">
+    <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" width="30" height="30" style="vertical-align: middle; margin-right: 8px;" /> LinkedIn
   </a>
 </p>
 
